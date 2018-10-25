@@ -1,0 +1,5 @@
+Packages required
+-------------------
+1. dpkt
+   a) Install dpkt using command "sudo pip install dpkt"
+   b) Install netifaces using command "pip install netifaces" 
